@@ -19,8 +19,6 @@ const products = [
 const Products = () => {
   const [showAll, setShowAll] = useState(false);
 
-  const visibleProducts = showAll ? products : products.slice(0, 4);
-
   return (
     <section id="products" className="py-20 bg-gray-950 text-white">
       <h2 className="text-4xl md:text-5xl font-bold text-center mb-12 text-white tracking-wide">
@@ -29,7 +27,7 @@ const Products = () => {
 
       <div className="max-w-7xl mx-auto px-6 grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8">
         <AnimatePresence>
-          {visibleProducts.map((p, i) => (
+          {(showAll || window.innerWidth >= 768 ? products : products.slice(0, 4)).map((p, i) => (
             <motion.div
               key={p.name}
               layout
@@ -53,8 +51,8 @@ const Products = () => {
         </AnimatePresence>
       </div>
 
-      {/* Show More / Show Less button */}
-      <div className="mt-12 text-center">
+      {/* Show More / Show Less button only for mobile */}
+      <div className="mt-12 text-center md:hidden">
         <button
           onClick={() => setShowAll(!showAll)}
           className="px-6 py-3 bg-cyan-500 hover:bg-cyan-600 text-white font-semibold rounded-lg transition-colors duration-300"
