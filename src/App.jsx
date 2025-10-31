@@ -6,6 +6,7 @@ import Products from "./components/Products";
 import About from "./components/About";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
+import Review from "./components/Review"
 
 function App() {
   const [theme, setTheme] = useState("light");
