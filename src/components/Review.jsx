@@ -6,7 +6,7 @@ const reviews = [
     name: "Pavan Kumar",
     text: "I would like to thank you for the excellent service provided for my laptop. The issue was resolved quickly, and I appreciated your clear communication throughout the process. The pickup and delivery were smooth, and the device is working well now I’m very satisfied with your professionalism and timely support. Keep up the good work!",
     rating: 5,
-    image: "https://maps.app.goo.gl/geGT8XYPGe4aV1Er8",
+    image: "https://www.google.com/maps/place/A1+Computers+laptop+service+center/@12.9047077,77.6250535,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipOeysLwAzknL9Fi8RullK8PcIwtIOw15iv2hOw!2e10!3e12!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipOeysLwAzknL9Fi8RullK8PcIwtIOw15iv2hOw%3Dw86-h114-k-no!7i3072!8i4096!4m17!1m9!3m8!1s0x3bae15eb788164cf:0xc9f110eda2f3da8f!2sA1+Computers+laptop+service+center!8m2!3d12.9047075!4d77.6250559!9m1!1b1!16s%2Fg%2F11vd9rjvg0!3m6!1s0x3bae15eb788164cf:0xc9f110eda2f3da8f!8m2!3d12.9047075!4d77.6250559!10e5!16s%2Fg%2F11vd9rjvg0?hl=en&entry=ttu&g_ep=EgoyMDI1MTAyOS4xIKXMDSoASAFQAw%3D%3D",
   },
   {
     name: "Gopal Naik",
