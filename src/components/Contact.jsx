@@ -25,7 +25,7 @@ const Services = () => {
             At <span className="text-cyan-400 font-semibold">A1 Laptop Solutions</span>,
             we specialize in professional laptop repair and maintenance in{" "}
             <span className="text-cyan-400 font-medium">Bangalore</span>. Located near{" "}
-            <span className="text-cyan-400 font-medium">JP Nagar Metro Station</span>, we
+            <span className="text-cyan-400 font-medium">Bommanhalli, Virat Nagar, Bangalore</span>, we
             offer reliable hardware repairs, expert software troubleshooting, and complete
             laptop care — ensuring your device performs like new.
           </p>
