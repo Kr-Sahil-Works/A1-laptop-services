@@ -54,12 +54,7 @@ computer repair needs! Specializing in laptop screen, battery, and keyboard repl
 A1 Computers Laptop Service Center – We care for your laptop like our own.
           </p>
 
-          <p className="text-lg leading-relaxed text-gray-400">
-            Based near <span className="text-cyan-400">Viratnagar Main Rd, Bommanahalli, Bangalore</span>,
-            we’ve built a reputation for reliability, fast service, and transparent pricing.
-            Our goal is simple — to bring your laptop back to life while saving you time
-            and cost.
-          </p>
+        
 
           {/* WhatsApp Button */}
           <motion.a
