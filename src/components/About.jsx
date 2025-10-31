@@ -45,10 +45,13 @@ const About = () => {
 
           <p className="text-lg leading-relaxed text-gray-300">
             At <span className="text-cyan-400 font-semibold">A1 Laptop Solutions</span>,
-            we believe your device deserves expert attention. Whether it’s a
-            cracked screen, motherboard issue, or slow performance — our certified
-            technicians ensure high-quality repairs using genuine components and
-            advanced diagnostic tools.
+            A1 Computers - Bengaluru's trusted laptop service center for all We specializes in laptop motherboard repair and replacement services for all major brands — HP, Dell, Lenovo, Acer, Asus, Apple, and more.
+No matter the issue, our expert technicians are ready to help. 💻🔧
+📞 Call us anytime — we’re available 24/7 for fast and reliable service!
+A1 Computers Laptop Service Center – Your trusted laptop care partner.
+computer repair needs! Specializing in laptop screen, battery, and keyboard replacements, as well as motherboard repairs for HP, Dell, Lenovo, Acer, Asus,Apple, and more.
+ and other brands. Our expert technicians provide top-notch services, from motherboard repair to display replacement, ensuring your laptop runs smoothly. Get your laptop repaired at our HP authorized service center near you, with quick turnaround times and affordable prices. Bring your laptop to A1 Computers for reliable and efficient repair services. 
+A1 Computers Laptop Service Center – We care for your laptop like our own.
           </p>
 
           <p className="text-lg leading-relaxed text-gray-400">
