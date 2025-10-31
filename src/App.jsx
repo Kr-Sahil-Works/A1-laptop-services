@@ -46,6 +46,7 @@ function App() {
       <Services />
       <Products />
       <About />
+      <Review/>
       <Contact />
       <Footer />
     </div>
