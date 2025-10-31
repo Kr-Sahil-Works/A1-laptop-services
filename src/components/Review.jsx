@@ -76,7 +76,7 @@ export default function ReviewCarousel() {
       while (true) {
         await controls.start({
           x: -scrollWidth,
-          transition: { duration: 55, ease: "linear" },
+          transition: { duration: 15, ease: "linear" },
         });
         controls.set({ x: 0 });
       }
